@@ -7,7 +7,7 @@ package compiledpractice;
 
 /**
  *
- * @author Andres
+ * @author Andres test
  */
 public class LLNode {
     int data;
