@@ -11,11 +11,9 @@ package compiledpractice;
  */
 public class LinkedList {
     LLNode head;
-    LLNode curr;
     
     LinkedList(int data){
         head = new LLNode(data);
-        curr=head;
     }
     
     void addFirst(int data){
