@@ -42,9 +42,9 @@ public class CompiledPractice {
         System.out.println(t.head.right.right.data);
         System.out.println(t.head.right.right.left);*/
         
-        SubarrayWithSum sum = new SubarrayWithSum();
-        
-        
+        //SubarrayWithSum sum = new SubarrayWithSum();
+        String arreglo[] = {""};
+        TotalDecodingMessages decode = new TotalDecodingMessages(1,arreglo );
         
     }
     
