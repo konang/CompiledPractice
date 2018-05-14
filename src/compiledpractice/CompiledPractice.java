@@ -24,7 +24,7 @@ public class CompiledPractice {
         ll.printAll();
         ll.printAll();*/
         
-        Tree t = new Tree(10);
+        /*Tree t = new Tree(10);
         t.insert(6);
         t.insert(18);
         t.insert(4);
@@ -41,6 +41,9 @@ public class CompiledPractice {
         System.out.println(t.head.right.left.data);
         System.out.println(t.head.right.right.data);
         System.out.println(t.head.right.right.left);*/
+        
+        SubarrayWithSum sum = new SubarrayWithSum();
+        
         
         
     }
